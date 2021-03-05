@@ -1,7 +1,5 @@
 # commerceapps
-
-A new Flutter application.
-
+ecommerce app with firebase backend
 ## Getting Started
 
 This project is a starting point for a Flutter application.
