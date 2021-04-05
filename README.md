@@ -1,4 +1,4 @@
-# commerceapps
+# ecommerceapps
 ecommerce app with firebase backend
 ## Getting Started
 
