@@ -1,4 +1,4 @@
-![Simulator Screen Shot - iPhone 11 Pro Max - 2021-04-05 at 22 19 13](https://user-images.githubusercontent.com/71667762/113622719-05055c00-9666-11eb-9e4f-ae26b12eff04.png)
+
 # ecommerceapps
 ecommerce app with firebase backend
 ## Getting Started
